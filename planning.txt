@@ -1,0 +1,9 @@
+User can see a list of Hotels
+User can book a Hotel
+User can get a reservation confirmation
+User can pay by credit card
+
+Classes:
+User
+Hotel
+ReservationTicket
